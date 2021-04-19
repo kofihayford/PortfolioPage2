@@ -1,0 +1,20 @@
+#viewButton {   
+    margin: auto;
+}
+
+.project1 {
+    background-image: url("./assets/Risedemo.gif");
+    background-size: cover;
+}
+
+
+.project2 {
+    background-image: url("./assets/projectdestination.PNG");
+    background-size: cover;
+}
+
+.project3 {
+    background-image: url("./assets/Project4.PNG");
+    background-size: cover;
+}
+
